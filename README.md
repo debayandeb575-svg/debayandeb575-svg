@@ -6,7 +6,7 @@ HELLO 👋
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I'm%20Your%20Name&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I'm%20Debayan%20DEB&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+scalable+web+apps+%F0%9F%9A%80;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
@@ -34,7 +34,6 @@ open_to: [Collaboration, Freelance, Open Source]
 fun_fact: "I debug with music on 🎧"
 ```
 
-- 🔭 Currently working on **Your Project Name**
 - 🌱 Learning **Rust, Kubernetes & Generative AI**
 - 🤝 Looking to collaborate on **open-source & AI projects**
 - 💬 Ask me about **JavaScript, Python, React, Cloud**
