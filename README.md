@@ -11,7 +11,7 @@
 <img src="https://hits.sh/github.com/debayandeb575-svg.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6" />
 <a href="https://github.com/debayandeb575-svg?tab=followers"><img src="https://img.shields.io/github/followers/debayandeb575-svg?label=Followers&style=for-the-badge&logo=github&color=8957e5" /></a>
 <a href="https://github.com/debayandeb575-svg?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/debayandeb575-svg&query=$.public_repos&label=Repos&style=for-the-badge&logo=github&color=f1c40f" /></a>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-still%20learning%20-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" />
 
 <br/><br/>
 
