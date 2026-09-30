@@ -10,9 +10,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-[![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github&color=8957e5)](https://github.com/YOUR_USERNAME)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&logo=github&color=f1c40f)](https://github.com/YOUR_USERNAME?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=debayandeb575-svg&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+[![Followers](https://img.shields.io/github/followers/debayandeb575-svg?label=Followers&style=for-the-badge&logo=github&color=8957e5)](https://github.com/YOUR_USERNAME)
+[![Stars](https://img.shields.io/github/stars/debayandeb575-svg?label=Stars&style=for-the-badge&logo=github&color=f1c40f)](https://github.com/YOUR_USERNAME?tab=repositories)
 
 </div>
 
@@ -76,7 +76,7 @@ fun_fact: "I debug with music on 🎧"
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=debayandeb575-svgE&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
@@ -88,7 +88,7 @@ fun_fact: "I debug with music on 🎧"
 ## 🏆 Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=debayandeb575-svg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
 </div>
 
 ---
@@ -96,13 +96,13 @@ fun_fact: "I debug with music on 🎧"
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00f7ff&line=8957e5&point=ffffff" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=debayandeb575-svg&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00f7ff&line=8957e5&point=ffffff" width="100%"/>
 </div>
 
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/debayandeb575-svg/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 > 💡 *Snake needs a GitHub Action — see the bottom of this file.*
@@ -117,7 +117,7 @@ fun_fact: "I debug with music on 🎧"
       <h3>🔥 Project One</h3>
       <p>Short description: what it does and why it matters.</p>
       <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" /><br/><br/>
-      <a href="https://github.com/YOUR_USERNAME/project-one"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
+      <a href="https://github.com/debayandeb575-svg/project-one"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
       <a href="https://your-demo.com"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
     </td>
     <td width="50%">
